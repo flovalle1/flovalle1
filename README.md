@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Florian
 - 👀 I’m interested in developing web-apps and websites.
-- 🌱 I’m currently learning JavaScript, PHP, Python and ASP.NET.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me: https://www.malt.de/profile/florianmartel1
 
